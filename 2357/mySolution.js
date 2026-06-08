@@ -1,5 +1,5 @@
-// Non-optimal solution. O(N²) for time and O(1) in memory.
-// For the optimal solution, just count the amount of different numbers on the array. O(N) both time and memory.
+// Non-optimal time solution, but optimal memory. O(N²) for time and O(1) in memory.
+// For the optimal time solution, just count the amount of different numbers in the array. O(N) both time and memory.
 
 /**
  * @param {number[]} nums
